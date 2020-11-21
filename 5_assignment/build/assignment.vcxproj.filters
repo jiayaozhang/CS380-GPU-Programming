@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\src\matrixkernels.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\build\CMakeFiles\assignment.dir\src\$(Configuration)\assignment_generated_matrixkernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{7C160B18-B106-3DE4-9635-4139D2909AF9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{08C1F110-4A36-332D-8118-8A1DC238DE4C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

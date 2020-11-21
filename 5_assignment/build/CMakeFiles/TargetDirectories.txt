@@ -1,0 +1,3 @@
+C:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build/CMakeFiles/assignment.dir
+C:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,20 @@
+﻿  CS380_prog.cpp
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(128,45): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(128,45): warning C4244:         with
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(128,45): warning C4244:         [
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(128,45): warning C4244:             T=unsigned char
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(128,45): warning C4244:         ]
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(498,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(507,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(515,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(524,36): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(524,36): warning C4244:         with
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(524,36): warning C4244:         [
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(524,36): warning C4244:             T=unsigned char
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(524,36): warning C4244:         ]
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(527,50): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(527,50): warning C4244:         with
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(527,50): warning C4244:         [
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(527,50): warning C4244:             T=unsigned char
+C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\src\CS380_prog.cpp(527,50): warning C4244:         ]
+  assignment.vcxproj -> C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\build\Debug\assignment.exe

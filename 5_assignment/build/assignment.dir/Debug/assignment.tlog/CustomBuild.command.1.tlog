@@ -1,0 +1,26 @@
+^C:\USERS\ZHANJ0O\DESKTOP\GPU-PRG\GPU-PROGRAMMING\GPU-PROGRAMMING\5_ASSIGNMENT\SRC\MATRIXKERNELS.CU
+setlocal
+cd C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\build\CMakeFiles\assignment.dir\src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build/CMakeFiles/assignment.dir/./src/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.23.28105/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build/CMakeFiles/assignment.dir/./src/Debug/assignment_generated_matrixkernels.cu.obj -D generated_cubin_file:STRING=C:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build/CMakeFiles/assignment.dir/./src/Debug/assignment_generated_matrixkernels.cu.obj.cubin.txt -P C:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build/CMakeFiles/assignment.dir/./src/assignment_generated_matrixkernels.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ZHANJ0O\DESKTOP\GPU-PRG\GPU-PROGRAMMING\GPU-PROGRAMMING\5_ASSIGNMENT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment -BC:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build --check-stamp-file C:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ZHANJ0O\Desktop\GPU-PRG\gpu-programming\gpu-programming\5_assignment\build\CMakeFiles\a1715a5c9f5825e4b4c1062213ad45f1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D9BD1CED-1C3B-31AF-A0BC-B7ECAC4C7167}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

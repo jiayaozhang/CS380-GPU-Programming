@@ -1,0 +1,10 @@
+^C:\USERS\ZHANJ0O\DESKTOP\GPU-PRG\GPU-PROGRAMMING\GPU-PROGRAMMING\5_ASSIGNMENT\BUILD\CMAKEFILES\A1715A5C9F5825E4B4C1062213AD45F1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment -BC:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ZHANJ0O/Desktop/GPU-PRG/gpu-programming/gpu-programming/5_assignment/build/assignment.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
